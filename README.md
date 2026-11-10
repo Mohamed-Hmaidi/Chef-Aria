@@ -119,4 +119,4 @@ MIT, see [LICENSE](LICENSE).
 
 ## Author
 
-Built by Mohamed Hmaidi(https://github.com/Mohamed-Hmaidi). Connect on [LinkedIn](www.linkedin.com/in/mohamed-hmaidi-cs).
+Built by Mohamed Hmaidi(https://github.com/Mohamed-Hmaidi). Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-hmaidi-cs).
