@@ -10,7 +10,11 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Demo
-https://github.com/user-attachments/assets/4feb5c18-a074-4e3a-84fc-4b14cb55fef3
+
+
+https://github.com/user-attachments/assets/6975a4ce-70a6-4257-a1b0-525321d02742
+
+
 
 
 ## Example
