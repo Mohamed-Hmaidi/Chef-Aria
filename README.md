@@ -3,7 +3,7 @@
 
 **Chef Aria is a cooking recommendation chatbot, a generative-AI app that turns a craving into a complete cooking suggestion.** Describe what you feel like eating and it returns a dish, why it fits, ingredients, preparation steps, a short history, example reviews with a star rating, and a generated picture of the dish.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamed-Hmaidi/Chef-Aria/blob/main/cooking_chatbot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamed-Hmaidi/Chef-Aria/blob/main/Chef%20Aria.ipynb)
 ![Python](https://img.shields.io/badge/Python-3-blue)
 ![UI](https://img.shields.io/badge/UI-Gradio-orange)
 ![LLMs](https://img.shields.io/badge/LLMs-Groq-green)
@@ -107,12 +107,11 @@ Chef-Aria/
 ├── Chef Aria.ipynb        the app (code, comments, notes)
 ├── README.md
 ├── LICENSE
-├── requirements.txt
-├── .gitignore
 ├── docs/
-   ├── architecture.md          pipeline, models, limits, design decisions
-   └── prompt-engineering.md    techniques, parameters, experiment
-
+│  ├── architecture.md          pipeline, models, limits, design decisions
+│  └── prompt-engineering.md    techniques, parameters, experiment
+└──assets/
+   └──social-preview.png
 ```
 
 ## License
@@ -121,4 +120,4 @@ MIT, see [LICENSE](LICENSE).
 
 ## Author
 
-Built by Mohamed Hmaidi(https://github.com/Mohamed-Hmaidi). Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-hmaidi-cs).
+Built by [Mohamed Hmaidi](https://github.com/Mohamed-Hmaidi). Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-hmaidi-cs).
