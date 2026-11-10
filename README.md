@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8c363651-85be-4182-b784-a0738f38ef34
+
 # 🍳 Chef Aria
 
 **Chef Aria is a cooking recommendation chatbot, a generative-AI app that turns a craving into a complete cooking suggestion.** Describe what you feel like eating and it returns a dish, why it fits, ingredients, preparation steps, a short history, example reviews with a star rating, and a generated picture of the dish.
@@ -18,6 +22,10 @@
   4. Commit the change.
   Fallback: save a GIF as assets/demo.gif and write  ![Demo](assets/demo.gif)
 -->
+
+
+https://github.com/user-attachments/assets/f68cc4ac-d36e-4222-a8ec-3d40cc69d922
+
 
 ## Example
 
