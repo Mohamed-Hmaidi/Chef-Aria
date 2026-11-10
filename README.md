@@ -13,18 +13,7 @@ https://github.com/user-attachments/assets/8c363651-85be-4182-b784-a0738f38ef34
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Demo
-
-<!--
-  ADD YOUR DEMO HERE, then delete this comment:
-  1. On GitHub, open this file and click the pencil icon (Edit).
-  2. Click on the empty line below this comment.
-  3. Drag your 10-second MP4 into the editor. GitHub uploads it and inserts a link that plays inline.
-  4. Commit the change.
-  Fallback: save a GIF as assets/demo.gif and write  ![Demo](assets/demo.gif)
--->
-
-
-https://github.com/user-attachments/assets/f68cc4ac-d36e-4222-a8ec-3d40cc69d922
+https://github.com/user-attachments/assets/4feb5c18-a074-4e3a-84fc-4b14cb55fef3
 
 
 ## Example
