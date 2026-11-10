@@ -100,17 +100,15 @@ The key only lives in the session's memory. If Colab disconnects, run all cells 
 
 ```
 Chef-Aria/
-├── cooking_chatbot.ipynb        the app (code, comments, notes)
+├── Chef Aria.ipynb        the app (code, comments, notes)
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
 ├── docs/
-│   ├── architecture.md          pipeline, models, limits, design decisions
-│   └── prompt-engineering.md    techniques, parameters, experiment
-└── assets/
-    ├── social-preview.png       image used for link previews
-    └── (demo video or GIF, screenshots)
+   ├── architecture.md          pipeline, models, limits, design decisions
+   └── prompt-engineering.md    techniques, parameters, experiment
+
 ```
 
 ## License
