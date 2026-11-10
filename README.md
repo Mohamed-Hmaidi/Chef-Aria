@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3-blue)
 ![UI](https://img.shields.io/badge/UI-Gradio-orange)
 ![LLMs](https://img.shields.io/badge/LLMs-Groq-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+[![License](https://img.shields.io/github/license/Mohamed-Hmaidi/Chef-Aria)](LICENSE)
 
 ## Demo
 
